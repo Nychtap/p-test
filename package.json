@@ -1,0 +1,13 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "p-testhello": "./index.js"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Nychtap/p-test.git"
+  }
+}
